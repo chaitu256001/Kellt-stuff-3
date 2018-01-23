@@ -1,2 +1,2 @@
-sleep 40
+sleep 30
 
